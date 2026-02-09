@@ -11,3 +11,23 @@ Session Type: Technical Seminar
 Technical Level: Intermediate
 Technology: AI, Computing Systems, Enterprise Architecture
 ---
+
+Token & Tag-Nation:
+ - OpenAI ; https://openai.com/de-DE/api/pricing/
+ . like in Alpen-Jahrbuch - 2026. ; Distances between - Wordings.
+ Nx  / Nx / Nx ... 96t
+
+ --> nearby (AAA)
+
+Top100-AI-Use-Cases:
+ - https://hbr.org/2024/03/how-people-are-really-using-genai
+
+ - Softmax (min. - max. Params)
+ - Huging-Face (Github3-OpenSourceModels)
+ - Responsible-AI (RAI) ; 
+ C-AI: https://www.cisco.com/site/us/en/solutions/artificial-intelligence/responsible-ai/index.html?dtid=osscdc000283
+
+ - C-AI-Blog: https://blogs.cisco.com/tag/artificial-intelligence
+
+ - https://blogs.cisco.com/ai/mcp-and-a2a-a-network-engineers-mental-model-for-agentic-ai
+ 
