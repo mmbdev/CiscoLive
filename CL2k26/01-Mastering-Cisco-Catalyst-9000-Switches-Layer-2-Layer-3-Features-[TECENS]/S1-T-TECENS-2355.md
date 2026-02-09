@@ -31,6 +31,28 @@ LAB:
     - Host3 - matm (MAC ADDRESS TABLE MANAGER)
 
  command:
-  - show plattform hardware fed switch active fwd-asic insight sdk_object(XXXX)
+  - show platform hardware fed switch active fwd-asic insight sdk_object(XXXX)
 
+---
+ - Case-Study; Reload - new VLAN-DB-Base, exist in permanent from
 
+---
+MultiCast-Routing:
+ - PIM Spark Mode Enabled
+ - Traffic Manager / Replicated Packet, 3 Methods
+  - MCID = Multicast ID, can be added to interaface or not - possiblity loadbalancing logic
+
+L3-command:
+ - show tech-support platfom laver3 multicast Group_idAddr 239.55.0.1 srcIP 50.50.50.50
+  - service-enability enhancement / SCRIPT -> easy way forward.
+ - show platform software object-manager FP active 
+ - show tech-support platform igmp-snooping Group_ipAddr 239.55.0.1 vlan10 
+
+TAC_additional: request platform software trace archive
+
+---
+Wire-SharkApp is implemented / how to activate it?
+ -> https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/white-paper-c11-742415.html
+
+command: 
+ - event manager run Cisco_Live
