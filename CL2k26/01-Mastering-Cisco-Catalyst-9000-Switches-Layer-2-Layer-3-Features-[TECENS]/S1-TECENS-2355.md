@@ -6,6 +6,8 @@ Technical Level: Intermediate
 Technology: Switching
 ---
 
+# S1: Mastering Cisco Catalyst 9000 Switches Layer 2 and Layer 3 Features: Packet Walk and Deep Dive Troubleshooting - Like a TAC Engineer [TECENS-2355]
+
 ## Session Description
 
 Are you ready to take a deep dive into Cisco Catalyst 9000 switches? This session is designed for networking professionals who want a clear, practical understanding of how these devices work.
@@ -30,4 +32,5 @@ LAB:
 
  command:
   - show plattform hardware fed switch active fwd-asic insight sdk_object(XXXX)
+
 
