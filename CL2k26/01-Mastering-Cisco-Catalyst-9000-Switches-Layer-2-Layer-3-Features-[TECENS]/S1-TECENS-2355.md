@@ -22,4 +22,12 @@ Whether you’re deploying new switches or managing existing infrastructure, thi
 
 ---
  - Materials: pdf
- 
+
+LAB:
+ - mac-address-programmability
+  - L2-EntryPoint:
+    - Host3 - matm (MAC ADDRESS TABLE MANAGER)
+
+ command:
+  - show plattform hardware fed switch active fwd-asic insight sdk_object(XXXX)
+
