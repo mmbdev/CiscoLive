@@ -30,4 +30,15 @@ Top100-AI-Use-Cases:
  - C-AI-Blog: https://blogs.cisco.com/tag/artificial-intelligence
 
  - https://blogs.cisco.com/ai/mcp-and-a2a-a-network-engineers-mental-model-for-agentic-ai
- 
+
+---
+Cisco-UCS_HW;
+ - Nexus AI Networking
+ - UCS-X Series – Modular Chassis
+ - UCS C880A, C885A and C845A Dense GPU Servers
+
+
+ - Demo-Multi-GPU-Host
+  - OI / vLLM / HuggingFace / RAY / AI-Enterprise / Ubuntu
+
+ - 
