@@ -41,4 +41,12 @@ Cisco-UCS_HW;
  - Demo-Multi-GPU-Host
   - OI / vLLM / HuggingFace / RAY / AI-Enterprise / Ubuntu
 
- - 
+ - Generative AI vs. Agentic AI
+  -> AI-Toolkit (UCS / Nexus)
+
+ - RAG-DYI (Basic-Scripts)
+  .> https://medium.com/@tim.krassowski/adding-scripts-to-a-github-repository-6530826f7199
+
+ ---
+ 
+
