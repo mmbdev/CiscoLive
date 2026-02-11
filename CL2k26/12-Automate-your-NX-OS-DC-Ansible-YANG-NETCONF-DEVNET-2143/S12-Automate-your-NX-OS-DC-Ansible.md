@@ -12,3 +12,6 @@ Technology: Automation & Orchestration, Data Center, Network Management
 Percentage of New Content: 100% New
 Resources
 ---
+
+ - Add Picture Content
+ - Add Tech-Command-Outlet
